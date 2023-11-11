@@ -12,7 +12,7 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "KHURRAM | Portfolio",
+  title: "KHURRAM ALI | Portfolio",
   description: "KHURRAM is a full-stack developer with 2 years of experience.",
 };
 
